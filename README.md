@@ -1,2 +1,2 @@
 # EvolutionaryAlgo
-Evolutionary Algorithm using ____ and C++
+Evolutionary Algorithm using jolt physics
